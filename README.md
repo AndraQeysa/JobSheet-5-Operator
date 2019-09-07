@@ -1,5 +1,3 @@
-# Jopsheet 5 Operator
-
 # Latihan Soal 2
 
 ![Alt Text](https://github.com/AndraQeysa/JobSheet-5-Operator/blob/master/Latihan%20Soal%202.png)
